@@ -16,9 +16,9 @@ const Hero = () => {
       </div>
 
       <div className="mt-4">
-        <Avatar>
+        <Avatar className="h-14 w-14">
           <AvatarImage src="https://github.com/shadcn.png" />
-          <AvatarFallback>CN</AvatarFallback>
+          <AvatarFallback>YHW</AvatarFallback>
         </Avatar>
       </div>
 
